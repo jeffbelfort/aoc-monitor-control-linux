@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.bak
+*.v[0-9]*.bak
+.venv/
+.idea/
+.vscode/
