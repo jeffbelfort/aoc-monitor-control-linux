@@ -1,7 +1,8 @@
 __pycache__/
-*.pyc
+*.py[cod]
 *.bak
 *.v[0-9]*.bak
 .venv/
 .idea/
 .vscode/
+.DS_Store
